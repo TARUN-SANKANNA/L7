@@ -10,7 +10,7 @@ int main()
 	}
 	else
 	{
-	printf("given numbers is odd");
+	printf("given numbers is not even");
 	}
 
 	return 0;
