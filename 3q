@@ -1,0 +1,52 @@
+<html>
+    <body>
+        <table border="1", width="100%, height="100%, align="center">
+            <tr>
+                <td colspan="3"><center> Go airways</center> <br>
+                we stand by <br>
+                 the <br>
+                 customer</td>
+            </tr>
+            <tr aria-rowspan="2">
+                <td rowspan="2">important note on<br>
+                the flights that are <br>
+                delayed<br></td>
+                <td colspan="2">Advertisement space</td> 
+                </tr>
+                <tr>
+                    
+                    
+                <td>main content area</td>
+                <td>links to book tickets</td>
+            
+                </tr>
+                <td colspan="3"> <center>Rights are reserved</center></td>
+            </tr>
+        </table>
+    </body>
+    <marquee> IMPORTANT NOTE ON THE FLIGHTS</marquee>
+</html>
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+taru.html[+] [unix] (05:29 01/01/1970)                                 2,2-9 All
+-- INSERT --
+
