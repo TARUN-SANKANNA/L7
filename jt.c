@@ -8,6 +8,8 @@ int main()
 	{
 		case 1: printf("BTech in CSE");
 			break;
+		default: printf("enter the correct choice");
+			 break;
 	}
 	return 0;
 }
