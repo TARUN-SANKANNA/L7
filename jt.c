@@ -14,6 +14,8 @@ int main()
 			break;
 		case 4: printf("BTech in MEC");
 			break;
+		default: printf("enter the correct choice");
+			 break;
 	}
 	return 0;
 }
