@@ -8,6 +8,8 @@ int main()
 	{
 		case 1: printf("BTech in CSE");
 			break;
+		case 2: printf("BTech in AIML");
+			break;
 	}
 	return 0;
 }
