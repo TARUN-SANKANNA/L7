@@ -8,10 +8,5 @@ int main()
 	{
 		printf("given number is even");
 	}
-	else
-	{
-	printf("given number is not even");
-	}
-
 	return 0;
 }
